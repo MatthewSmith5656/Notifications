@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SoftwareProject\Notification\Notification.Client\bin\Debug\net6.0\Notification.Client.deps.json
+C:\Users\User\source\repos\SoftwareProject\Notification\Notification.Client\bin\Debug\net6.0\Notification.Client.dll
+C:\Users\User\source\repos\SoftwareProject\Notification\Notification.Client\bin\Debug\net6.0\Notification.Client.pdb
+C:\Users\User\source\repos\SoftwareProject\Notification\Notification.Client\bin\Debug\net6.0\Notification.Domain.dll
+C:\Users\User\source\repos\SoftwareProject\Notification\Notification.Client\bin\Debug\net6.0\Notification.Domain.pdb
+C:\Users\User\source\repos\SoftwareProject\Notification\Notification.Client\obj\Debug\net6.0\Notification.Client.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftwareProject\Notification\Notification.Client\obj\Debug\net6.0\Notification.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftwareProject\Notification\Notification.Client\obj\Debug\net6.0\Notification.Client.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftwareProject\Notification\Notification.Client\obj\Debug\net6.0\Notification.Client.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftwareProject\Notification\Notification.Client\obj\Debug\net6.0\Notification.Client.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftwareProject\Notification\Notification.Client\obj\Debug\net6.0\Notification.Client.csproj.CopyComplete
+C:\Users\User\source\repos\SoftwareProject\Notification\Notification.Client\obj\Debug\net6.0\Notification.Client.dll
+C:\Users\User\source\repos\SoftwareProject\Notification\Notification.Client\obj\Debug\net6.0\refint\Notification.Client.dll
+C:\Users\User\source\repos\SoftwareProject\Notification\Notification.Client\obj\Debug\net6.0\Notification.Client.pdb
+C:\Users\User\source\repos\SoftwareProject\Notification\Notification.Client\obj\Debug\net6.0\ref\Notification.Client.dll
